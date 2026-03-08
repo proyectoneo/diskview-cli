@@ -31,15 +31,11 @@ DiskView CLI analyzes your disk drives showing free/used space with pie charts, 
 ## 🚀 Installation
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/for-test0x/diskview-cli/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/proyectoneo/diskview-cli/main/install.sh | bash
 source ~/.bashrc
 ```
 
-### For full health analysis (recommended):
 
-```bash
-sudo apt install smartmontools
-```
 
 ## 📖 Usage
 
@@ -79,7 +75,6 @@ diskview --help          # All options
 
 - Python 3.8+
 - Linux or macOS
-- `smartmontools` (optional, for full S.M.A.R.T. analysis)
 
 ## 📝 License
 
