@@ -31,7 +31,7 @@ DiskView CLI analyzes your disk drives showing free/used space with pie charts, 
 ## 🚀 Installation
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/proyectoneo/diskview-cli/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/proyectoneogroup/diskview-cli/main/install.sh | bash
 source ~/.bashrc
 ```
 
