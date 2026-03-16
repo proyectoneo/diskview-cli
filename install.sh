@@ -4,7 +4,7 @@
 #  Disk Health Analyzer & Monitor
 #
 #  Usage:
-#    curl -sSL https://raw.githubusercontent.com/for-test0x/diskview-cli/main/install.sh | bash
+#    curl -sSL https://raw.githubusercontent.com/proyectoneogroup/diskview-cli/main/install.sh | bash
 # =============================================
 
 set -e
@@ -17,7 +17,7 @@ BOLD='\033[1m'
 DIM='\033[2m'
 NC='\033[0m'
 
-REPO_USER="for-test0x"
+REPO_USER="proyectoneogroup"
 REPO_NAME="diskview-cli"
 INSTALL_DIR="$HOME/.diskview-cli"
 
